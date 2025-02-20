@@ -8,5 +8,6 @@
 
 # Both ipynb and py files have been provided for each of the above steps.
 
+# spotify_df_merged.csv should be used at the beginning of Step 3 - EDA
 # spotify_df_merged.csv should be used at the beginning of step 4) Data Preprocessing and Feature Engineering.
 # final_df.csv is the final resulting csv after step 4) Data Preprocessing and Feature Engineering has been run.
