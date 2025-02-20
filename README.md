@@ -1,6 +1,6 @@
 STAT4243/5243 - Project 1 Team 5
 
-###To run code, use the files in the following order:
+### To run code, use the files in the following order:
 
 # 1) Data Acquisiton
 track_features.csv and grammy_winners_cleaned.csv are obtained here in step 1)
