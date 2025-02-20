@@ -1,5 +1,8 @@
 STAT4243/5243 - Project 1 Team 5
 
+# Files can be accessed in this Google Drive: 
+https://drive.google.com/drive/folders/1byePXLtTWD1EwFFk7AIwM_k8XZjrEuwJ?usp=sharing
+
 ### To run code, use the files in the following order:
 
 # 1) Data Acquisiton
