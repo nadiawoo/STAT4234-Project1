@@ -13,6 +13,7 @@ Original file is located at
 
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
+
 client_id = "846863b7c91a45e0b32f787dde9ae429"
 client_secret = "3aa4a64d9ca64a3a8b429e07af58a8ca"
 client_credentials_manager = SpotifyClientCredentials(client_id=client_id, client_secret=client_secret)
